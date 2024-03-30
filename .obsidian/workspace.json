@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5455cdeb8f434f83",
+            "id": "db5123fa3f1e3c0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Kubernetes101/Kubernetes 101.md",
-                "mode": "source",
-                "source": false
+                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes101/Kubernetes 101.md",
+                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes101/Kubernetes 101.md",
+                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes101/Kubernetes 101.md"
+                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md"
               }
             }
           }
@@ -147,13 +145,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5455cdeb8f434f83",
+  "active": "db5123fa3f1e3c0f",
   "lastOpenFiles": [
-    "Rust101/Rust 101.md",
-    "Rust101/16-03-2024/Intro.md",
-    "Kubernetes101/Kubernetes 101.md",
+    "Kubernetes101/23-03-2024/what-is-a-container.md",
+    "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
+    "Kubernetes101/30-03-2024",
     "Kubernetes101/23-03-2024/Intro.md",
+    "Rust101/30-03-2024/Type system is your friend.md",
+    "Rust101/23-03-2024",
+    "Rust101/30-03-2024",
+    "Rust101/23-03-2024/Day 2.md",
     "README.md",
+    "Rust101/Rust 101.md",
+    "Rust101/16-03-2024/Untitled.md",
+    "Rust101/16-03-2024/Intro.md",
+    "Distributed Systems 101/Topics.md",
+    "Kubernetes101/Kubernetes 101.md",
+    "test.md",
     "Distributed Systems 101",
     "Kubernetes101/23-03-2024",
     "Rust101/16-03-2024",
@@ -161,7 +169,6 @@
     "Kubernetes101",
     "Rust101",
     "Excalidraw/Drawing 2024-03-16 10.45.36.excalidraw.md",
-    "test.md",
     "Excalidraw"
   ]
 }
