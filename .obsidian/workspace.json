@@ -11,13 +11,64 @@
             "id": "db5123fa3f1e3c0f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md"
+                "file": "TwitchAlerts/Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f14399c234cbd32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Null Cloud/Part1 why/Why Build A cloud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78e6aa6fd8b2fa72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TwitchAlerts/Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d394f91f3ac48b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes101/20-04-2024/day 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0e11f378339a9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes101/20-04-2024/day 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414
+    "width": 358.0026054382324
   },
   "right": {
     "id": "7a81ef049ec9afc1",
@@ -83,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
+                "file": "Kubernetes101/20-04-2024/day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
+                "file": "Kubernetes101/20-04-2024/day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md"
+                "file": "Kubernetes101/20-04-2024/day 3.md"
               }
             }
           }
@@ -145,30 +196,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db5123fa3f1e3c0f",
+  "active": "f0e11f378339a9ee",
   "lastOpenFiles": [
-    "Kubernetes101/23-03-2024/what-is-a-container.md",
-    "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
-    "Kubernetes101/30-03-2024",
-    "Kubernetes101/23-03-2024/Intro.md",
-    "Rust101/30-03-2024/Type system is your friend.md",
-    "Rust101/23-03-2024",
-    "Rust101/30-03-2024",
-    "Rust101/23-03-2024/Day 2.md",
+    "Kubernetes101/20-04-2024/Drawing 2024-04-20 13.45.10.excalidraw.md",
+    "Kubernetes101/20-04-2024/day 3.md",
+    "Rust101/20-04-2024/Day 5.md",
+    "Kubernetes101/20-04-2024",
+    "Languages/Type systems/What are sum types.md",
+    "Rust101/20-04-2024",
+    "StreamLife/Drawing 2024-04-20 10.29.27.excalidraw.md",
+    "Languages/Type systems/Gos generics method return issue.md",
+    "TODO.md",
+    "TwitchAlerts/Todo.md",
     "README.md",
-    "Rust101/Rust 101.md",
-    "Rust101/16-03-2024/Untitled.md",
-    "Rust101/16-03-2024/Intro.md",
-    "Distributed Systems 101/Topics.md",
-    "Kubernetes101/Kubernetes 101.md",
     "test.md",
-    "Distributed Systems 101",
-    "Kubernetes101/23-03-2024",
-    "Rust101/16-03-2024",
-    "Excalidraw/Drawing 2024-03-16 10.47.42.excalidraw.md",
-    "Kubernetes101",
-    "Rust101",
-    "Excalidraw/Drawing 2024-03-16 10.45.36.excalidraw.md",
-    "Excalidraw"
+    "Languages/Type systems/WhyGosTypeSystemDropsTheBall.md",
+    "Languages/Type systems/sum types.md",
+    "Untitled",
+    "Languages/Type systems",
+    "Tools/Tilt.md",
+    "Languages",
+    "Null Cloud/Part1 why/demo-deplaoyment.md",
+    "Tools",
+    "Null Cloud/Part1 why/Why Build A cloud.md",
+    "Null Cloud/Part2 untrusted code/Safely Running Untrusted Code.md",
+    "Null Cloud/Part2 untrusted code",
+    "Null Cloud/Part1 why",
+    "Kubernetes101/06-04-2024/Kubernetes Fundementals.md",
+    "Null Cloud",
+    "Kubernetes101/06-04-2024/day3.excalidraw.md",
+    "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
+    "Kubernetes101/23-03-2024/Intro.md",
+    "Kubernetes101/23-03-2024/what-is-a-container.md",
+    "Rust101/06-04-2024/Day 4 - Shared State.md",
+    "Kubernetes101/06-04-2024",
+    "StreamLife/Drawing 2024-04-04 23.19.44.excalidraw.md",
+    "Distributed Systems 101/Topics.md",
+    "Blockchain/Topics.md",
+    "Rust101/30-03-2024/Type system is your friend.md"
   ]
 }

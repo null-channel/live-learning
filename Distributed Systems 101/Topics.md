@@ -1,2 +1,2 @@
-- Tracability
-- 
+- Traceability
+- Hype Driven Development

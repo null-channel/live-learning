@@ -1,0 +1,3 @@
+- Watch theo's react videos
+- Test raft consensus
+	- depends on timing
