@@ -33,6 +33,7 @@ Learn Practical Kubernetes
 - leverage the scheduler (taints/tolortions)
 	- make second app not run on the same node as first app.
 - K8s in the cloud?
+- pod healthchecks
 
 
 Future:

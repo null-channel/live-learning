@@ -4,68 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "8c5b16aa2a177d5e",
+        "id": "c5ed3024eac238f7",
         "type": "tabs",
         "children": [
           {
-            "id": "db5123fa3f1e3c0f",
+            "id": "952dc41e430605a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NullDB/Consensus/Lesson Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "856c99788cb1e3f0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Null Cloud/Part1 why/demo-deplaoyment.md"
+                "file": "NullDB/Consensus/Drawing 2024-06-20 22.46.28.excalidraw.md"
               }
             }
           },
           {
-            "id": "f14399c234cbd32b",
+            "id": "2630ab5624c5130f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "NullDB/FileSystem/Drawing 2024-06-18 21.36.08.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fcad885018c93cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Null Cloud/Part1 why/Why Build A cloud.md",
+                "file": "NullDB/Consensus/Lesson Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "78e6aa6fd8b2fa72",
+            "id": "4eeb6eb8e2f312e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TwitchAlerts/Todo.md",
-                "mode": "source",
-                "source": false
+                "file": "StreamLife/Drawing 2024-06-27 21.46.27.excalidraw.md"
               }
             }
           },
           {
-            "id": "3d394f91f3ac48b1",
+            "id": "37cf3749a8b6fc3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes101/20-04-2024/day 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "f0e11f378339a9ee",
+            "id": "721e178fa45d0f19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "TODO/_to_learn.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.0026054382324
+    "width": 270.0026054382324
   },
   "right": {
     "id": "7a81ef049ec9afc1",
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Null Cloud/Part1 why/demo-deplaoyment.md",
+                "file": "TODO/_to_learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Null Cloud/Part1 why/demo-deplaoyment.md",
+                "file": "TODO/_to_learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Null Cloud/Part1 why/demo-deplaoyment.md"
+                "file": "TODO/_to_learn.md"
               }
             }
           }
@@ -190,46 +214,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3df2065f8e8f337b",
+  "active": "721e178fa45d0f19",
   "lastOpenFiles": [
-    "Null Cloud/Part4 Architecture/PoC.md",
-    "Null Cloud/Part4 Architecture/Null Cloud Architecture.md",
-    "Null Cloud/Part4 Architecture/EndGoal.md",
-    "Null Cloud/Part4 Architecture",
-    "Null Cloud/Part1 why/Why Build A cloud.md",
-    "Null Cloud/Part1 why/demo-deplaoyment.md",
-    "Null Cloud/Part2 null cloud basic architecture/Architecture.md",
-    "Null Cloud/Part2 null cloud basic architecture",
-    "TODO.md",
-    "TwitchAlerts/Todo.md",
-    "Kubernetes101/20-04-2024/day 3.md",
-    "Kubernetes101/20-04-2024/Drawing 2024-04-20 13.45.10.excalidraw.md",
-    "Rust101/20-04-2024/Day 5.md",
-    "Kubernetes101/20-04-2024",
-    "Languages/Type systems/What are sum types.md",
-    "Rust101/20-04-2024",
-    "StreamLife/Drawing 2024-04-20 10.29.27.excalidraw.md",
-    "Languages/Type systems/Gos generics method return issue.md",
+    "Excalidraw/Drawing 2024-07-06 09.51.24.excalidraw.md",
+    "_to_learn/_To_Learn.md",
+    "TODO/_to_learn.md",
+    "ASLR weakness.md",
+    "aa4bmo 1.md",
+    "StreamLife/Drawing 2024-06-27 21.46.27.excalidraw.md",
+    "aa4bmo.md",
+    "TODO",
     "README.md",
-    "test.md",
-    "Languages/Type systems/WhyGosTypeSystemDropsTheBall.md",
-    "Languages/Type systems/sum types.md",
-    "Untitled",
-    "Languages/Type systems",
-    "Tools/Tilt.md",
-    "Languages",
-    "Tools",
-    "Null Cloud/Part3 untrusted code/Safely Running Untrusted Code.md",
-    "Null Cloud/Part3 untrusted code",
-    "Null Cloud/Part1 why",
-    "Kubernetes101/06-04-2024/Kubernetes Fundementals.md",
-    "Kubernetes101/06-04-2024/day3.excalidraw.md",
-    "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
-    "Kubernetes101/23-03-2024/Intro.md",
-    "Kubernetes101/23-03-2024/what-is-a-container.md",
-    "Rust101/06-04-2024/Day 4 - Shared State.md"
+    "TODO.md",
+    "StreamLife/newname.excalidraw.md",
+    "NullDB/Consensus/Lesson Plan.md",
+    "NullDB/FileSystem/Lesson Plan.md",
+    "NullDB/plans/plan.excalidraw.md",
+    "NullDB/Consensus/Drawing 2024-06-20 22.46.28.excalidraw.md",
+    "NullDB/FileSystem/Drawing 2024-06-18 21.36.08.excalidraw.md",
+    "NullDB/plans",
+    "StreamLife/Drawing 2024-05-30 23.24.10.excalidraw.md",
+    "StreamLife/Drawing 2024-06-20 22.54.27.excalidraw.md",
+    "StreamLife/Drawing 2024-04-04 23.19.44.excalidraw.md",
+    "Null Cloud/V1-Retrospective/v2_architecture.excalidraw.md",
+    "Null Cloud/V1-Retrospective/v2-goals.md",
+    "Null Cloud/V1-Retrospective/v2-architecture.md",
+    "Null Cloud/V1-Retrospective/v1_architecture.excalidraw.md",
+    "Null Cloud/V1-Retrospective/Drawing 2024-06-21 14.39.47.excalidraw.md",
+    "Null Cloud/V1-Retrospective/v1-goals.md",
+    "Null Cloud/V1-Retrospective/Retrospective.md",
+    "Null Cloud/V1-Retrospective/v1-architecture.md",
+    "Null Cloud/V1-Retrospective",
+    "NullDB/Consensus",
+    "NullDB/FileSystem",
+    "NullDB",
+    "React/soyoulikeplanningpoker",
+    "React/whywedon'ttrustprogrammers",
+    "Distributed Systems 101/PromiseTheory",
+    "Null Cloud/Why it's changing",
+    "React/Done/k8sWASMBetterTogether/Pasted image 20240524113202.png",
+    "Distributed Systems 101/Done/k8sdoesnotscale/Untitled.canvas"
   ]
 }

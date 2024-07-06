@@ -9,3 +9,6 @@
 
 
 1000 followers - Cheeres to you stream + drop of chers to you tech video.
+
+
+[[_to_learn]]

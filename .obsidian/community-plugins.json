@@ -1,4 +1,8 @@
 [
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "obsidian-git"
 ]
