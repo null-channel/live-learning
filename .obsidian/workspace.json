@@ -55,22 +55,83 @@
             "id": "4eeb6eb8e2f312e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "StreamLife/Drawing 2024-06-27 21.46.27.excalidraw.md"
+                "file": "NullDB/Consensus/Lesson Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "37cf3749a8b6fc3d",
+            "id": "2b4670743e5c6b49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_videos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           },
           {
-            "id": "721e178fa45d0f19",
+            "id": "2c89633b0676c80a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_videos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "7aceeaa44698d69b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_videos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "41aaf937c5ba960c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "StreamLife/Drawing 2024-07-18 22.12.48.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a9d62f1bae6f7720",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -87,9 +148,29 @@
                 }
               }
             }
+          },
+          {
+            "id": "794d40d386562ae7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "StreamLife/Drawing 2024-07-26 12.21.31.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4ec4e80331ad1e5a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -155,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/_to_learn.md",
+                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/_to_learn.md",
+                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/_to_learn.md"
+                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md"
               }
             }
           }
@@ -219,36 +300,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "721e178fa45d0f19",
+  "active": "4ec4e80331ad1e5a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-06 09.51.24.excalidraw.md",
-    "_to_learn/_To_Learn.md",
+    "StreamLife/Drawing 2024-07-26 12.21.31.excalidraw.md",
+    "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
     "TODO/_to_learn.md",
+    "StreamLife/Drawing 2024-07-25 21.57.31.excalidraw.md",
+    "TODO/_database.md",
+    "NullDB/FileSystem/Lesson Plan.md",
+    "TODO/_videos.md",
+    "TODO/_null_cloud.md",
+    "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
+    "https www.haskellforall.com 2020 11 how-to-use-nixos-for-lightweight.html (not haskell).md",
+    "StreamLife/Drawing 2024-07-18 22.12.48.excalidraw.md",
+    "StreamLife/Drawing 2024-07-16 22.19.23.excalidraw.md",
+    "React/Done/DebunkingCommonK8sMyths/Notes.md",
+    "React/Done/DebunkingCommonK8sMyths/Drawing 2024-05-25 13.29.38.excalidraw.md",
+    "StreamLife/Drawing 2024-07-13 10.16.17.excalidraw.md",
+    "StreamLife/Drawing 2024-07-06 10.01.40.excalidraw.md",
+    "something.md",
+    "NullDB/Consensus/raft-to-multi.excalidraw.md",
+    "NullDB/Consensus/Lesson Plan.md",
     "ASLR weakness.md",
     "aa4bmo 1.md",
     "StreamLife/Drawing 2024-06-27 21.46.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-06 09.51.24.excalidraw.md",
+    "_to_learn/_To_Learn.md",
     "aa4bmo.md",
     "TODO",
     "README.md",
-    "TODO.md",
-    "StreamLife/newname.excalidraw.md",
-    "NullDB/Consensus/Lesson Plan.md",
-    "NullDB/FileSystem/Lesson Plan.md",
-    "NullDB/plans/plan.excalidraw.md",
-    "NullDB/Consensus/Drawing 2024-06-20 22.46.28.excalidraw.md",
-    "NullDB/FileSystem/Drawing 2024-06-18 21.36.08.excalidraw.md",
     "NullDB/plans",
-    "StreamLife/Drawing 2024-05-30 23.24.10.excalidraw.md",
-    "StreamLife/Drawing 2024-06-20 22.54.27.excalidraw.md",
-    "StreamLife/Drawing 2024-04-04 23.19.44.excalidraw.md",
-    "Null Cloud/V1-Retrospective/v2_architecture.excalidraw.md",
-    "Null Cloud/V1-Retrospective/v2-goals.md",
-    "Null Cloud/V1-Retrospective/v2-architecture.md",
-    "Null Cloud/V1-Retrospective/v1_architecture.excalidraw.md",
-    "Null Cloud/V1-Retrospective/Drawing 2024-06-21 14.39.47.excalidraw.md",
-    "Null Cloud/V1-Retrospective/v1-goals.md",
-    "Null Cloud/V1-Retrospective/Retrospective.md",
-    "Null Cloud/V1-Retrospective/v1-architecture.md",
     "Null Cloud/V1-Retrospective",
     "NullDB/Consensus",
     "NullDB/FileSystem",

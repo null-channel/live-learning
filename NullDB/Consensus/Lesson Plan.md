@@ -11,6 +11,7 @@
 	- POW/POS vs Raft/Paxos
 - How
 	- Initially Raft -> future paxos
+- Why basic raft is not web scale
 
 
 Videos:
