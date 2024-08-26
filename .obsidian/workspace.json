@@ -168,9 +168,133 @@
                 "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9a2f48fd1728d9c0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_database.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "476150bfec7f6f21",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_database.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "56055b685bae247f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_videos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "23048b542604d75a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_to_learn.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "8bb5cf5d7a695414",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_videos.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "02ab086b16175455",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "StreamLife/Drawing 2024-08-17 10.25.36.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ed554062485e1557",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO/_database.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -220,7 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.0026054382324
+    "width": 287.000732421875
   },
   "right": {
     "id": "7a81ef049ec9afc1",
@@ -236,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
+                "file": "TODO/_database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
+                "file": "TODO/_database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md"
+                "file": "TODO/_database.md"
               }
             }
           }
@@ -300,45 +424,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ec4e80331ad1e5a",
+  "active": "ed554062485e1557",
   "lastOpenFiles": [
-    "StreamLife/Drawing 2024-07-26 12.21.31.excalidraw.md",
-    "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
-    "TODO/_to_learn.md",
-    "StreamLife/Drawing 2024-07-25 21.57.31.excalidraw.md",
+    "StreamLife/Drawing 2024-08-17 10.25.36.excalidraw.md",
     "TODO/_database.md",
-    "NullDB/FileSystem/Lesson Plan.md",
-    "TODO/_videos.md",
+    "Switch to byte offset.md",
     "TODO/_null_cloud.md",
-    "Kubernetes101/30-03-2024/Drawing 2024-03-30 13.32.19.excalidraw.md",
-    "https www.haskellforall.com 2020 11 how-to-use-nixos-for-lightweight.html (not haskell).md",
-    "StreamLife/Drawing 2024-07-18 22.12.48.excalidraw.md",
-    "StreamLife/Drawing 2024-07-16 22.19.23.excalidraw.md",
-    "React/Done/DebunkingCommonK8sMyths/Notes.md",
-    "React/Done/DebunkingCommonK8sMyths/Drawing 2024-05-25 13.29.38.excalidraw.md",
-    "StreamLife/Drawing 2024-07-13 10.16.17.excalidraw.md",
-    "StreamLife/Drawing 2024-07-06 10.01.40.excalidraw.md",
-    "something.md",
-    "NullDB/Consensus/raft-to-multi.excalidraw.md",
-    "NullDB/Consensus/Lesson Plan.md",
-    "ASLR weakness.md",
-    "aa4bmo 1.md",
-    "StreamLife/Drawing 2024-06-27 21.46.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-06 09.51.24.excalidraw.md",
-    "_to_learn/_To_Learn.md",
-    "aa4bmo.md",
+    "NullDB/RBOL_BIRB/Drawing 2024-08-17 12.17.03.excalidraw.md",
+    "NullDB/RBOL_BIRB",
+    "TODO/_videos.md",
+    "Null Cloud/GitOps Post Mortem/Why did our api not get deployed.md",
+    "Null Cloud/GitOps Post Mortem/Drawing 2024-04-23 22.25.58.excalidraw.md",
+    "Null Cloud/How to run Eddington Locally/How to run eddington locally.md",
+    "Atomics and Locks.md",
+    "Null Cloud/NullCloud vs Fly/architectures.excalidraw.md",
+    "Null Cloud/NullCloud vs Fly/Major Diffs.md",
+    "Null Cloud/Why it's changing/Drawing 2024-06-13 22.19.31.excalidraw.md",
+    "Null Cloud/Part2 Architecture/PoC.md",
+    "Null Cloud/Part2 Architecture/Null Cloud Architecture.md",
+    "Null Cloud/Part2 Architecture/EndGoal.md",
+    "Null Cloud/NullCloud vs Fly",
+    "The Most Toxic Community.md",
+    "StreamLife/Drawing 2024-08-16 13.03.25.excalidraw.md",
+    "TODO/_to_learn.md",
+    "StreamLife/Drawing 2024-08-09 12.36.07.excalidraw.md",
+    "StreamLife/Drawing 2024-08-03 10.00.20.excalidraw.md",
+    "StreamLife/Drawing 2024-08-02 12.42.48.excalidraw.md",
+    "StreamLife/Drawing 2024-07-30 22.53.51.excalidraw.md",
+    "StreamLife/Drawing 2024-07-27 11.25.32.excalidraw.md",
+    "StreamLife/Drawing 2024-05-18 13.54.40.excalidraw.md",
+    "StreamLife/Drawing 2024-05-24 12.19.14.excalidraw.md",
     "TODO",
-    "README.md",
     "NullDB/plans",
     "Null Cloud/V1-Retrospective",
     "NullDB/Consensus",
     "NullDB/FileSystem",
     "NullDB",
-    "React/soyoulikeplanningpoker",
-    "React/whywedon'ttrustprogrammers",
-    "Distributed Systems 101/PromiseTheory",
-    "Null Cloud/Why it's changing",
-    "React/Done/k8sWASMBetterTogether/Pasted image 20240524113202.png",
+    "Response/soyoulikeplanningpoker",
+    "Response/whywedon'ttrustprogrammers",
+    "Response/Done/k8sWASMBetterTogether/Pasted image 20240524113202.png",
     "Distributed Systems 101/Done/k8sdoesnotscale/Untitled.canvas"
   ]
 }

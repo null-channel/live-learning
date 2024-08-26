@@ -7,6 +7,7 @@ kanban-plugin: board
 ## TODO
 
 - [ ] [[aa4bmo 1]] 13
+- [ ] what the crap is signal masking
 - [ ] NixOS VM/basics
 - [ ] eBPF
 - [ ] [[https www.haskellforall.com 2020 11 how-to-use-nixos-for-lightweight.html (not haskell)]]

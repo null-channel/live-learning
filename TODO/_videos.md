@@ -6,12 +6,18 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] [[something]]
+- [ ] [[The Most Toxic Community]]
+- [ ] [[Atomics and Locks]]
 - [ ] password manager teir list
 - [ ] AI games stretch goal
 	AWS studio ai
 	Azure build your own copilet with AI studio
 - [ ] I built a copilot that always recomends you write it in rust
+- [ ] dockerfile copy vs add
+
+
+## IN_PROGRESS
+
 - [ ] Editor Tier List
 	
 	VS code
@@ -21,6 +27,7 @@ kanban-plugin: board
 	netbeans
 	fleet
 	zed
+	intelij
 	emacs
 	notepad
 	notepad++
@@ -33,16 +40,14 @@ kanban-plugin: board
 	MS frontpage
 
 
-## IN_PROGRESS
-
-
-
 ## READY
 
+- [ ] The ROI of Generative AI
 
 
 ## DONE
 
+- [ ] Fly.io vs NullCloud.io
 
 
 
