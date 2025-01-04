@@ -1,6 +1,6 @@
 Objectives:
 Why:
-- Why is it helpful
+- Why metadata is it helpful
 - what is some of the data
 	- lets us keep track of things like schema version, record version, and for us most importantly it lets us keep track of if it is deleted without special characters.
 
@@ -16,6 +16,9 @@ How:
 ##### Performance
 HTML vs. Json vs Proto
  - Size on disk
+	 - size zipped
  - Read CPU effort
  - Memory
+
+- not record -> not found
 

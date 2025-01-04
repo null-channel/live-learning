@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[The Most Toxic Community]]
 - [ ] [[Atomics and Locks]]
+- [ ] Make/explain how to make a write lock
 - [ ] password manager teir list
 - [ ] AI games stretch goal
 	AWS studio ai

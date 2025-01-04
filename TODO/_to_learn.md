@@ -6,7 +6,9 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] make a mutex in rust via atomics?
 - [ ] [[aa4bmo 1]] 13
+- [ ] AOE 4 Moding
 - [ ] what the crap is signal masking
 - [ ] NixOS VM/basics
 - [ ] eBPF
@@ -21,6 +23,7 @@ kanban-plugin: board
 - [ ] Gleam week
 - [ ] implement german strings in rust
 - [ ] interesting chaining attack https://www.assetnote.io/resources/research/chaining-three-bugs-to-access-all-your-servicenow-data
+- [ ] RowHammer
 
 
 ## IN_PROGRESS
