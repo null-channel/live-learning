@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] Review 'Neubird' Dutch
 - [ ] [[The Most Toxic Community]]
 - [ ] [[Atomics and Locks]]
 - [ ] Make/explain how to make a write lock
